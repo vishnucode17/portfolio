@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Slackside+One&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.front-cover{
+    background: rgb(0, 0, 0);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    height: 100vh;
+    border-bottom-left-radius: 30%;
+}
+#calliography{
+    height: 200px;
+}
+#vishnu_img{
+    width: 100%;
+    bottom: 0;
+    overflow: hidden;
+}
+#cover-head-1, #cover-head-2{
+    color: white;
+    font-family: 'Slackside One', cursive;
+    text-align: center;
+}
+#cover-head-1{
+    font-size: 5em;
+}
+#cover-head-2{
+    font-size: 3em;
+    color: rgb(146, 15, 143);
+}
+nav{
+    background: black;
+}
+.text-cover{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+}
