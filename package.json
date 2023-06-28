@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -19,8 +19,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "homepage": "https://vishnucode17.github.io/",
-    "server": "live-server public --host=0.0.0.0 --port=3000 --middleware=./disable-browser-cache.js"
+    "homepage": "https://vishnucode17.github.io/"
   },
   "eslintConfig": {
     "extends": [
