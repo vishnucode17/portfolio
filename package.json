@@ -17,9 +17,10 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build",
-    "homepage": "https://vishnucode17.github.io/portfolio"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "homepage": "https://vishnucode17.github.io/portfolio",
+    "server": "live-server public --host=0.0.0.0 --port=3000 --middleware=./disable-browser-cache.js"
   },
   "eslintConfig": {
     "extends": [
@@ -40,6 +41,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^5.0.0",
+    "react-router-dom": "^6.14.0"
   }
 }

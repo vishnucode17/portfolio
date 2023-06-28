@@ -1,10 +1,20 @@
 import logo from './logo.svg';
-
-import FrontCover from './front-cover';
-
+import Home from './home';
+import WhoAmI from './whoami';
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 function App() {
   return (
-    <FrontCover/>
+   <>
+   <BrowserRouter>
+   <Routes>
+        <Route path="/" element={<Home />} />
+          {/* <Route index element={<Home />} /> */}
+          {/* <Route path="blogs" element={<Blogs />} /> */}
+          <Route path="/whoami" element={< WhoAmI />} />
+          {/* <Route path="*" element={<NoPage />} /> */}
+      </Routes>
+   </BrowserRouter>
+   </>
   );
 }
 

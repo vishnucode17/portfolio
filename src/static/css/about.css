@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.shell{
+    height: fit-content;
+    width: 100%;
+    background-color: black;
+    border-radius: 8px;
+    border: 2px solid rgb(223, 208, 0);
+    
+}
+.whoami_content{
+    padding: 20px;
+    background-color: rgb(30, 30, 30);
+}
+.terminal{
+    color: red;
+    font-size: 32px;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    padding: 10px;
+}   
+.term-text{
+    color: white;
+    font-size: 32px;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    padding: 10px;
+}

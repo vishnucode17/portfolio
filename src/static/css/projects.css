@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-div{
+    min-height: 100vh;
+    background: rgb(30, 30, 30);
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+    color: white;
+    padding: 2%;
+    align-items: center;
+}
+#project{
+    color: rgb(222, 200, 0);
+    writing-mode:vertical-lr;
+    font-size: 64px;
+    width: fit-content;
+}
+.project-grid{
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+.project-card{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.project-card:nth-child(odd){
+    order: 1;
+}
