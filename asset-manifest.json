@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "//vishnucode17.github.io/portfolio/static/css/main.6dd73f50.css",
-    "main.js": "//vishnucode17.github.io/portfolio/static/js/main.689404b0.js",
-    "static/js/787.1ed0c42c.chunk.js": "//vishnucode17.github.io/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/front-cover.mp4": "//vishnucode17.github.io/portfolio/static/media/front-cover.121d676110b5d7f55808.mp4",
-    "static/media/keyboard.jpg": "//vishnucode17.github.io/portfolio/static/media/keyboard.7e9e5fcfb279a8752e44.jpg",
-    "static/media/Vishnu_img.png": "//vishnucode17.github.io/portfolio/static/media/Vishnu_img.636d3dbf0931d332af48.png",
-    "static/media/robot.png": "//vishnucode17.github.io/portfolio/static/media/robot.5c0c545c3e97c0438272.png",
-    "static/media/hi.png": "//vishnucode17.github.io/portfolio/static/media/hi.b3c6550b4807a38f4e36.png",
-    "static/media/Vishnu.png": "//vishnucode17.github.io/portfolio/static/media/Vishnu.bab73dce4c916f7dc89d.png",
-    "static/media/bulb.png": "//vishnucode17.github.io/portfolio/static/media/bulb.d8755ad3349f6c3bec79.png",
-    "static/media/logo.svg": "//vishnucode17.github.io/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "//vishnucode17.github.io/portfolio/index.html",
-    "main.6dd73f50.css.map": "//vishnucode17.github.io/portfolio/static/css/main.6dd73f50.css.map",
-    "main.689404b0.js.map": "//vishnucode17.github.io/portfolio/static/js/main.689404b0.js.map",
-    "787.1ed0c42c.chunk.js.map": "//vishnucode17.github.io/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.6dd73f50.css",
+    "main.js": "/portfolio/static/js/main.37a15d61.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/front-cover.mp4": "/portfolio/static/media/front-cover.121d676110b5d7f55808.mp4",
+    "static/media/keyboard.jpg": "/portfolio/static/media/keyboard.7e9e5fcfb279a8752e44.jpg",
+    "static/media/Vishnu_img.png": "/portfolio/static/media/Vishnu_img.636d3dbf0931d332af48.png",
+    "static/media/robot.png": "/portfolio/static/media/robot.5c0c545c3e97c0438272.png",
+    "static/media/hi.png": "/portfolio/static/media/hi.b3c6550b4807a38f4e36.png",
+    "static/media/Vishnu.png": "/portfolio/static/media/Vishnu.bab73dce4c916f7dc89d.png",
+    "static/media/bulb.png": "/portfolio/static/media/bulb.d8755ad3349f6c3bec79.png",
+    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portfolio/index.html",
+    "main.6dd73f50.css.map": "/portfolio/static/css/main.6dd73f50.css.map",
+    "main.37a15d61.js.map": "/portfolio/static/js/main.37a15d61.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6dd73f50.css",
-    "static/js/main.689404b0.js"
+    "static/js/main.37a15d61.js"
   ]
 }
